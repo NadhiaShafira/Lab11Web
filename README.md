@@ -121,7 +121,7 @@ Data yang diperbarui akan disimpan kembali ke database menggunakan query UPDATE.
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/85a1fce469100475c647b78874013d349481ec43/ss_prak11/9_form_ubah_artikel.png)
 
 ✅Hasil Setelah Diubah :
 
