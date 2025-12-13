@@ -111,7 +111,7 @@ method insert pada class Database.
 
 ✅Hasil Setelah Disimpan :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/aa9018896ac587754d0cf85e99d26e987f97d2bb/ss_prak11/8_hasil_tambah_artikel.png)
 
 **🍙Form Ubah Artikel**
 
