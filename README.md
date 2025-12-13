@@ -6,7 +6,7 @@
 
 **Matkul                   : Pemograman Web 1**
 
-**Dosen Pengampu           : 
+**Dosen Pengampu           : Agung Nugroho, S.Kom., M.Kom.**
 
 ---
 
@@ -136,4 +136,11 @@ dan tidak monoton.
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/4c30c228abed5255cdfee5c8d3787218b134b900/ss_prak11/11_file_css_style.png)
+
+**8🍪 Kesimpulan**
+
+```Dari hasil praktikum ini dapat disimpulkan bahwa framework PHP OOP sederhana
+dapat dibangun dengan konsep routing dan modularisasi. Penggunaan OOP membuat
+kode lebih terstruktur, mudah dibaca, dan mudah dikembangkan.
+```
