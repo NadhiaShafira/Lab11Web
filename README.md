@@ -107,7 +107,7 @@ method insert pada class Database.
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/94f9980df46c8ed3b338679d249ec8949d08926e/ss_prak11/7_form_tambah_artikel.png)
 
 ✅Hasil Setelah Disimpan :
 
