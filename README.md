@@ -1,3 +1,139 @@
 # Lab11Web
 
-Nama : Nadhia Shafira
+**Nama                     : Nadhia Shafira**
+
+**NIM                      : 312410498**
+
+**Matkul                   : Pemograman Web 1**
+
+**Dosen Pengampu           : 
+
+---
+
+**📖 Pendahuluan**
+
+Praktikum ini bertujuan untuk memahami konsep Object Oriented Programming (OOP) pada PHP serta penerapan routing sederhana menggunakan .htaccess dan index.php sebagai router utama.
+Aplikasi yang dibuat berupa manajemen artikel dengan fitur tampil data, tambah artikel, dan ubah artikel, serta menggunakan struktur folder modular.
+
+---
+
+**🧩 Konsep yang Digunakan**
+
+- PHP Object Oriented Programming (OOP)
+
+- Routing menggunakan .htaccess
+
+- Modularisasi folder
+
+- Koneksi database MySQL
+
+- Template Header & Footer
+
+- CSS sederhana untuk tampilan
+
+---
+
+**🍔Konfigurasi Apache (AllowOverride)**
+
+```Agar file .htaccess dapat berfungsi, dilakukan pengaturan pada file httpd.conf.
+Pada bagian konfigurasi directory, nilai AllowOverride diubah dari None menjadi All
+supaya Apache mengizinkan penggunaan file .htaccess.
+```
+
+✅Hasil :
+
+![foto]()
+
+**🍕Pembuatan File .htaccess**
+
+```File .htaccess dibuat untuk mengaktifkan fitur mod_rewrite.
+Routing digunakan agar URL aplikasi menjadi lebih rapi dan tidak
+menggunakan ekstensi .php.
+```
+
+✅Hasil :
+
+![foto]()
+
+**🍟Pengujian Routing**
+
+```Untuk memastikan routing berjalan dengan baik, dilakukan pengujian dengan
+mengakses URL tertentu. Jika berhasil, halaman akan menampilkan tulisan
+"ROUTING OK".
+```
+
+✅Hasil :
+
+![foto]()
+
+**🍜Struktur Folder Framework**
+
+```Untuk memastikan routing berjalan dengan baik, dilakukan pengujian dengan
+mengakses URL tertentu. Jika berhasil, halaman akan menampilkan tulisan
+"ROUTING OK".
+```
+
+✅Hasil :
+
+![foto]()
+
+**🍱Konfigurasi Database & Class Database**
+
+```Class Database dibuat untuk mengelola koneksi ke MySQL menggunakan konsep
+Object Oriented Programming. Class ini digunakan untuk menjalankan query
+seperti SELECT, INSERT, dan UPDATE.
+```
+
+✅Hasil :
+
+![foto]()
+
+**🍩Menampilkan Data Artikel**
+
+```Modul artikel digunakan untuk menampilkan data artikel yang tersimpan
+di database ke dalam bentuk tabel. Data ditampilkan menggunakan query SELECT.
+```
+
+✅Hasil :
+
+![foto]()
+
+**🧁Form Tambah Artikel**
+
+```Fitur tambah artikel dibuat menggunakan form berbasis OOP.
+Data yang diinput melalui form akan disimpan ke database menggunakan
+method insert pada class Database.
+```
+
+✅Hasil :
+
+![foto]()
+
+✅Hasil Setelah Disimpan :
+
+![foto]()
+
+**🍙Form Ubah Artikel**
+
+```Fitur ubah artikel digunakan untuk mengedit data artikel yang sudah ada.
+Data yang diperbarui akan disimpan kembali ke database menggunakan query UPDATE.
+```
+
+✅Hasil :
+
+![foto]()
+
+✅Hasil Setelah Diubah :
+
+![foto]()
+
+**🍦Tampilan Akhir + CSS**
+
+```Tampilan aplikasi dipercantik menggunakan CSS dengan warna abu muda (silver)
+dan biru muda. Selain itu ditambahkan emoji agar tampilan terlihat lebih menarik
+dan tidak monoton.
+```
+
+✅Hasil :
+
+![foto]()
