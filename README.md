@@ -64,7 +64,7 @@ mengakses URL tertentu. Jika berhasil, halaman akan menampilkan tulisan
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/27d2fd52719b29f2ffb4253b82bc0d0455ac5b2d/ss_prak11/3-routing-ok.png)
 
 **🍜Struktur Folder Framework**
 
