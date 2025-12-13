@@ -86,7 +86,7 @@ seperti SELECT, INSERT, dan UPDATE.
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/6073e3e8fe06466919b7419ec1a0e11523d3015e/ss_prak11/5_class-database.png)
 
 **🍩Menampilkan Data Artikel**
 
