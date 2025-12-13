@@ -42,7 +42,7 @@ supaya Apache mengizinkan penggunaan file .htaccess.
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/352fe3d07d7e5f912415c487029bff660e96db2b/ss_prak11/1_konfigurasi-apache-allowoverride.png)
 
 **🍕Pembuatan File .htaccess**
 
