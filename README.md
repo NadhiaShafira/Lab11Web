@@ -75,7 +75,7 @@ mengakses URL tertentu. Jika berhasil, halaman akan menampilkan tulisan
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/f08ee770804a5300bf0bb5481a977e69f99703b0/ss_prak11/4_struktur_folder_project.png)
 
 **🍱Konfigurasi Database & Class Database**
 
