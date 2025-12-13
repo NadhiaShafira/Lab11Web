@@ -96,7 +96,7 @@ di database ke dalam bentuk tabel. Data ditampilkan menggunakan query SELECT.
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/395d9b99d37dd1197f5ecc5e45770490cc0e461b/ss_prak11/6_halaman_data_artikel.png)
 
 **🧁Form Tambah Artikel**
 
