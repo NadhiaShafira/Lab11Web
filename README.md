@@ -53,7 +53,7 @@ menggunakan ekstensi .php.
 
 ✅Hasil :
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Lab11Web/blob/89cc339aa4714e0ae3757ae7984c6c956c7906e1/ss_prak11/2_htaccess_routing.png)
 
 **🍟Pengujian Routing**
 
