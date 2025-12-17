@@ -172,7 +172,7 @@ Pada Praktikum 12, aplikasi tersebut dikembangkan lebih lanjut dengan menambahka
 Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 ```
 
-✅Hasil :![foto]()
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/b972a466f6b40dba1de2b9686567608e9d014f3b/ss_prak12/01-database-users.png)
 
 **2️⃣ HALAMAN LOGIN**
 
