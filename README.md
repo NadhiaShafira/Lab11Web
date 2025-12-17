@@ -203,7 +203,7 @@ Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 
 *Sesudah(berhasil)*
 
-✅Hasil :![foto]()
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/56157f47b1089801d0658ce0195473174249b4d7/ss_prak12/05-ubah-password(sesudah).png)
 
 ```Password berhasil diubah dan dienkripsi menggunakan fungsi password_hash().
 ```
