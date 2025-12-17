@@ -193,7 +193,7 @@ Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 ```Halaman profil menampilkan data user yang sedang login serta menyediakan fitur ubah password.
 ```
 
-✅Hasil :![foto]()
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/a5ebe72ee573cb6ee41982d033e1ffea224b5981/ss_prak12/04-halaman-profil.png)
 
 **6️⃣ PROSES UBAH PASSWORD SEBELUM & BERHASIL**
 
