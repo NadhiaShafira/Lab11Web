@@ -181,6 +181,10 @@ Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 
 ✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/ed14554b91e275cf207686f7ae1ec6f04fdde397/ss_prak12/02-halaman-login.png)
 
+**LOGIN BERHASIL**
+
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/0f09501581c3487ca5fc76e76042c6edff4cfb5f/ss_prak12/03-login-berhasil.png) 
+
 **4️⃣ HALAMAN DATA ARTIKEL**
 
 ```Halaman Data Artikel menampilkan data artikel menggunakan konsep CRUD berbasis OOP.
