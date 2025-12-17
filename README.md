@@ -199,7 +199,7 @@ Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 
 *Sebelum*
 
-✅Hasil :![foto]()
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/1baaf435912f1767cc31c97e09301d2a5e94a947/ss_prak12/05-ubah-password(sebelum).png)
 
 *Sesudah(berhasil)*
 
