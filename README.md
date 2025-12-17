@@ -179,7 +179,7 @@ Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 ```Halaman login digunakan untuk autentikasi user sebelum mengakses aplikasi.
 ```
 
-✅Hasil :![foto]()
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/ed14554b91e275cf207686f7ae1ec6f04fdde397/ss_prak12/02-halaman-login.png)
 
 **4️⃣ HALAMAN DATA ARTIKEL**
 
