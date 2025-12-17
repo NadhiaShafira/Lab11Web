@@ -213,7 +213,7 @@ Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 ```Password user berhasil diperbarui dan tersimpan dalam bentuk hash di database.
 ```
 
-✅Hasil :![foto]()
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/a775c4e05d7ad454a9be21520a6d653cdb6f66af/ss_prak12/06-password-hash-users.png)
 
 **8️⃣ LOGOUT**
 
