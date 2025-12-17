@@ -220,6 +220,8 @@ Password disimpan dalam bentuk hash untuk menjaga keamanan data.
 ```Logout menghapus session dan mengarahkan user kembali ke halaman login.
 ```
 
+✅Hasil :![foto](https://github.com/NadhiaShafira/Lab11Web/blob/bc83ac917f1a8c93cbf49bcdcc44568f36256572/ss_prak12/07-logout.png)
+
 Pada praktikum ini dilakukan perubahan tampilan antarmuka dengan mengubah style CSS.
 Tampilan menggunakan gradasi warna biru dan pink, layout full width, card modern,
 serta penambahan ikon emoji untuk meningkatkan tampilan visual aplikasi.
