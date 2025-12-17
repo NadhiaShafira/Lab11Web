@@ -144,3 +144,82 @@ dan tidak monoton.
 dapat dibangun dengan konsep routing dan modularisasi. Penggunaan OOP membuat
 kode lebih terstruktur, mudah dibaca, dan mudah dikembangkan.
 ```
+
+
+## 📌 Praktikum 12 – Pengembangan Fitur User & Profil ##
+
+**(Lanjutan dari Praktikum 11 – Framework PHP OOP Sederhana)*
+
+Pada Praktikum 11, telah dibuat sebuah framework PHP sederhana berbasis Object Oriented Programming (OOP) dengan fitur utama manajemen artikel (CRUD) serta routing menggunakan file index.php sebagai router utama.
+
+Pada Praktikum 12, aplikasi tersebut dikembangkan lebih lanjut dengan menambahkan fitur autentikasi user dan pengelolaan profil, sehingga sistem menjadi lebih lengkap dan aman untuk digunakan.
+
+**🎨 Perubahan Tampilan (Styling CSS)**
+
+- Selain penambahan fitur, dilakukan juga pembaruan tampilan antarmuka:
+
+- Menggunakan gradasi warna biru dan pink untuk tampilan yang lebih modern dan menarik.
+
+- Struktur tampilan dibuat full width dengan penggunaan card agar konten lebih rapi.
+
+- Halaman login, artikel, dan profil menggunakan style yang konsisten.
+
+- Penambahan ikon emoji 🎀✨🍰 untuk meningkatkan user experience.
+
+**1️⃣ TABEL users DI phpMyAdmin**
+
+```Tabel users digunakan untuk menyimpan data user aplikasi.
+Password disimpan dalam bentuk hash untuk menjaga keamanan data.
+```
+
+✅Hasil :![foto]()
+
+**2️⃣ HALAMAN LOGIN**
+
+```Halaman login digunakan untuk autentikasi user sebelum mengakses aplikasi.
+```
+
+✅Hasil :![foto]()
+
+**4️⃣ HALAMAN DATA ARTIKEL**
+
+```Halaman Data Artikel menampilkan data artikel menggunakan konsep CRUD berbasis OOP.
+```
+
+✅Hasil :![foto]()
+
+**5️⃣ HALAMAN PROFIL USER**
+
+```Halaman profil menampilkan data user yang sedang login serta menyediakan fitur ubah password.
+```
+
+✅Hasil :![foto]()
+
+**6️⃣ PROSES UBAH PASSWORD SEBELUM & BERHASIL**
+
+*Sebelum*
+
+✅Hasil :![foto]()
+
+*Sesudah(berhasil)*
+
+✅Hasil :![foto]()
+
+```Password berhasil diubah dan dienkripsi menggunakan fungsi password_hash().
+```
+
+**7️⃣ TABEL users SETELAH UBAH PASSWORD**
+
+```Password user berhasil diperbarui dan tersimpan dalam bentuk hash di database.
+```
+
+✅Hasil :![foto]()
+
+**8️⃣ LOGOUT**
+
+```Logout menghapus session dan mengarahkan user kembali ke halaman login.
+```
+
+Pada praktikum ini dilakukan perubahan tampilan antarmuka dengan mengubah style CSS.
+Tampilan menggunakan gradasi warna biru dan pink, layout full width, card modern,
+serta penambahan ikon emoji untuk meningkatkan tampilan visual aplikasi.
