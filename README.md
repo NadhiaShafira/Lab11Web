@@ -4,6 +4,8 @@
 
 **NIM                      : 312410498**
 
+**Kelas                    : TI.24.A.5**
+
 **Matkul                   : Pemograman Web 1**
 
 **Dosen Pengampu           : Agung Nugroho, S.Kom., M.Kom.**
